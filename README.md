@@ -1,4 +1,4 @@
-### QR Code Generator
+### QR Generator
 
 This *Python* QR code generator uses the qrcode library to create a QR image based on a given URL. The generated image is named after the URL's domain.
 
